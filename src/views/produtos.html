@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% set pageId = "page-products" %}
+
+{% block title %}
+    Nossos Produtos
+{% endblock title %}
+
+{% block styles %}
+    <link rel="stylesheet" href="/styles/produtos.css">
+{% endblock styles %}
+
+{% block content %}
+    <div class="_content">
+        {% include "partials/header-sidebar.html" %}
+
+        <h1>Nossos produtos</h1>
+
+        <div class="cards">
+            {% for produto in produtos %}
+                <div class="card" onclick="verDetalhesProduto({{produto.id}})">
+                    {% if produto.oferta %}
+                        <span class="oferta">Em oferta</span>
+                    {% endif %}
+
+                    <div class="wrapper-img">
+                        <img src="{{ produto.imagem }}" alt="{{ produto.nome }}">
+                    </div>
+                    <h2 class="nome">{{ produto.nome }}</h2>
+                    <h3 class="preco">{{ produto.preco.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' }) }}</h3>
+                    <p class="resumo">{{ produto.resumo }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+{% endblock content %}
+
+{% block scripts %}
+    <script src="/scripts/produtos.js"></script>
+{% endblock scripts %}

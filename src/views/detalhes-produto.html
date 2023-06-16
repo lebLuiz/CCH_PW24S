@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+{% set pageId = "page-product-details" %}
+
+{% block title %}
+    Detalhes do Produto
+{% endblock title %}
+
+{% block styles %}
+    <link rel="stylesheet" href="/styles/detalhes-produto.css">
+    <link rel="stylesheet" href="/styles/animations.css">
+{% endblock styles %}
+
+{% block content %}
+
+    <div class="_content">
+        {% include "partials/header-sidebar.html" %}
+
+        <div class="wrapper-product-details" >
+            <h1 class="nome">{{ produto.nome }}</h1>
+
+            {% if produto.oferta %}
+                <span class="oferta">Em oferta</span>
+            {% endif %}
+
+            <div class="img-product">
+                <img src="{{ produto.imagem }}" alt="{{ produto.nome }}">
+            </div>
+            
+            <h3 class="preco">{{ produto.preco.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' }) }}</h3>
+
+            <p class="descricao">{{ produto.descricao }}</p>
+        </div>
+    </div>
+
+{% endblock content %}

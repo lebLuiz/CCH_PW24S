@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% set pageId = "page-budgets" %}
+
+{% block title %}
+    Orçamento
+{% endblock title %}
+
+{% block styles %}
+    <link rel="stylesheet" href="/styles/orcamento.css">
+{% endblock styles %}
+
+{% block content %}
+    <div class="_content">
+        {% include "partials/header-sidebar.html" %}
+
+        <form class="form-content">
+            <h1>Faça um orçamento!</h1>
+            <h2>Entre em contato</h2>
+    
+            <fieldset>
+                <div class="field-group">
+                    <div class="field">
+                        <label for="email">E-mail</label>
+                        <input
+                            type="email"
+                            name="email"
+                            placeholder="Digite seu email aqui"
+                            required="required">
+                    </div>
+                </div>
+            </fieldset>
+
+            <button>Solicitar orçamento</button>
+        </form>
+    </div>
+{% endblock content %}

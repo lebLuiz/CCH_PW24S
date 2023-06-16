@@ -1,0 +1,49 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "imagem": "https://i.pinimg.com/originals/8c/ce/c8/8ccec89ecf848f5b2586d8982931c6ba.jpg",
+            "nome": "VOID Sub Vantage",
+            "resumo": "Série Air - Baixo Elegantemente Brutal. Oferecendo um design inovador e inigualável",
+            "descricao": "Visualmente estimulante para qualquer audiência, proporcionando uma alternativa elegante aos subwoofers existentes no mercado. Perfeitamente destinado a discotecas e bares de alto impacto; Sub Vantage está igualmente em casa tanto na frente da casa como em aplicações de monitorização. O novo arranjo de colectores divididos proporciona transientes hiper-rápidos e uma saída sem paralelo para as suas dimensões. O Sub Vantage emparelha-se perfeitamente com o Air Vantage como monitor DJ em discotecas, bares desportivos, clubes membros ou salas de espectáculo de alta qualidade.",
+            "preco": 18990.90,
+            "oferta": false
+        },
+        {
+            "id": 2,
+            "imagem": "https://images.prismic.io/funktion-one/787266de-1b1b-48a2-98e6-778612f26533_Evo+6E+New.png?auto=compress,format&w=2304",
+            "nome": "Funktion One - EVO 6E",
+            "resumo": "EVO 6E é um alto-falante de fonte pontual de alta intensidade com ampla dispersão horizontal de 50°",
+            "descricao": "Possui eficiência e desempenho líderes de classe, tem dispersão horizontal nominal de 50° e matrizes físicas a 40°, duas de largura, proporcionando uma cobertura suave acima de 90°. É perfeito para uma ampla variedade de aplicações maiores e todos os gêneros de música. Os sistemas Evolution 6E oferecem qualidade de som Funktion-One de última geração. Recomendamos seu uso com caixas de baixo F124, F121, F221 ou BR221.",
+            "preco": 17789.90,
+            "oferta": true
+        },
+        {
+            "id": 3,
+            "imagem": "https://www.focal.com/sites/www.focal.fr/files/shared/catalog/produit/visuel/grande-evo-white.jpg",
+            "nome": "Focal, Grande Utopia EM",
+            "resumo": "A Grande Utopia EM integra a linha Utopia III Evo, com a sua lendária herança tecnológica.",
+            "descricao": "A Grande Utopia EM integra a linha Utopia III Evo, com a sua lendária herança tecnológica. Este alto-falante excepcional de alta fidelidade apresenta as mais recentes inovações exclusivas da Focal e continua sendo a melhor escolha... A arquitetura de som do Utopia III foi preservada para reduzir a distorção harmônica no frágil registro de médios, que é tão crucial para revelando as emoções do artista. Ambos os altifalantes estão equipados com as mais recentes inovações Focal: o NIC (Circuito de Indutância Neutra) e a suspensão TMD. Todo o sistema de crossover nos novos drivers de alto-falante foi redesenhado. A rigidez do gabinete Grande Utopia EM Evo foi aprimorada usando anéis de reforço posicionados ao redor dos drivers dos alto-falantes. Os melhores componentes de sua geração também entraram na linha: cabos fabricados na França, um material acústico mais denso dentro do subwoofer e as placas de terminais duplos. Novos acabamentos adicionam o elemento de design a uma silhueta atemporal. Utopia III Evo continua sendo uma linha icônica. Integra toda uma série de inovações e detalhes essenciais para criar algo único. E ainda ruas à frente do resto.",
+            "preco": 26888.90,
+            "oferta": false
+        },
+        {
+            "id": 4,
+            "imagem": "https://www.danleysoundlabs.com/wp-content/uploads/2014/10/SH46s-on-DBH218s-Orange-Horns.jpeg",
+            "nome": "Pure Groove, Orange-Horns",
+            "resumo": "Com uma capacidade de performance absurda, contém drivers de som posicionados de forma estratégica com diferentes bandas de som",
+            "descricao": "A forma como seus múltiplos drivers de som estão posicionados. Tradicionalmente, sistemas de sons acabam gerando uma certa interferência interna por conta do posicionamento dos alto falantes. No caso da PG, esses drivers são posicionados de forma estratégica com diferentes bandas de frequência, o que faz com que as caixas se comportem de maneira mais agrupada e consequentemente, sinérgicas. Vale lembrar que um som de qualidade e bem ajustado é um dos fatores mais importantes para criação de uma experiência adequada para o público no dancefloor. Um soundsystem forte pode salvar uma festa com estrutura mediana, mas um soundsystem mediano não consegue tornar melhor a experiência de uma festa de grandes proporções.",
+            "preco": 16575.90,
+            "oferta": true
+        },
+        {
+            "id": 5,
+            "imagem": "https://adn.harmanpro.com/product_attachments/product_attachments/7816_1562172762/vt4883_angle_z_vert_medium.jpg",
+            "nome": "JBL VT4883 - Vertec Series",
+            "resumo": "Projetado para fornecer reforço de som de alta qualidade de frequências subbaixas para uma ampla variedade de música ao vivo e A/ V aplicações de suporte, os usos típicos incluem concertos de áudio e apresentações multimídia de todos os tipos.",
+            "descricao": "JBL Professional VERTEC Series Subcompact Dual 12 Cardioid-Arrayable Line Array Element é uma extensão de baixa frequência complementar para o gabinete subcompacto de 3 vias VT4886. Projetado para fornecer reforço de som de alta qualidade de frequências subbaixas para uma ampla variedade de música ao vivo e Aplicações de suporte A/V, usos típicos incluem apresentações de áudio e multimídia de concertos de todos os tipos. tamanho é a chave. Transdutores avançados dão a cada sistema VERTEC sua vantagem de desempenho. Guias de onda de precisão são acoplados aos drivers de compressão de tecnologia avançada para criar uma fita vertical ininterrupta de energia de alta frequência no sistema de alcance total. Os integradores de limite de radiação para a seção de médio alcance de cada sistema reduzem os efeitos de difração, proporcionando uma cobertura suave de alta frequência. Cada modelo da linha VERTEC destina-se a suportar o tipo de uso robusto encontrado quando transportado de um local para outro. Acabamento externo DuraFlex. Cada sistema possui componentes de alto-falante com tratamento de cone resistente às intempéries. Todos os modelos da linha VERTEC são equipados com quadros de suspensão laterais integrados. Essas estruturas tubulares de grau premium com tratamento térmico e classificação de carga se acoplam usando pinos de liberação rápida e barras de dobradiça para criar matrizes que são rígidas para máxima resistência, mas flexíveis em design e aplicação. O sistema de suspensão VERTEC inclui várias opções de estrutura para suspender matrizes. Os quadros curtos também podem ser usados como uma âncora na parte inferior de grandes arrays, fornecendo um ponto de coleta traseiro separado para inclinar o array. Este software preditivo fornece uma riqueza de informações técnicas sobre as expectativas de desempenho do sistema line array VERTEC para várias configurações de público.",
+            "preco": 20799.90,
+            "oferta": false
+        }
+    ]
+}

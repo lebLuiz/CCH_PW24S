@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% set pageId = "page-home" %}
+
+{% block styles %}
+    <link rel="stylesheet" href="/styles/home.css">
+{% endblock styles %}
+
+{% block content %}
+    <div class="_content">
+        {% include "partials/header-sidebar.html" %}
+
+        <main>
+            <h1>Sesh</h1>
+
+            <p>Precisando de um sistema de som adequado? É com nós mesmo!</p>
+            <p class="info"><span class="phone"></span>: (46) 98578-0668</p>
+            <p class="info"><span class="mail"></span>: oi_comercial@sesh.com.br</p>
+        </main>
+    </div>
+{% endblock content %}

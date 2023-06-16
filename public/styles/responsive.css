@@ -1,0 +1,28 @@
+@media (max-width: 990px) {
+    #page-home::before {
+        background-size: 320px;
+        background-position: 96% 100%;
+    }
+
+    .cards {
+        grid-template-columns: repeat(auto-fill, minmax(40%, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .cards {
+        grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+    }
+}
+
+@media (max-width: 525px) {
+    #page-home::before {
+        background-size: 280px;
+    }
+}
+
+@media (max-width: 768px) and (max-height: 732px) {
+    #page-home::before {
+        background-size: 200px;
+    }
+}

@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% set pageId = "page-work" %}
+
+{% block title %}
+    Trabalhe conosco
+{% endblock title %}
+
+{% block styles %}
+    <link rel="stylesheet" href="/styles/modal.css">
+    <link rel="stylesheet" href="/styles/trabalhe-conosco.css">
+    <link rel="stylesheet" href="/styles/animations.css">
+{% endblock styles %}
+
+{% block content %}
+
+    <div class="_content"
+        id="_vagas"
+        data-vagas="{{ vagas }}">
+        {% include "partials/header-sidebar.html" %}
+
+        <h1>Trabalhe conosco!</h1>
+        <h2><span class="quantity-jobs"></span> Vagas de emprego</h2>
+
+        <div id="_container_vagas">
+        </div>
+
+        <button
+            class="btn-send-curriculum"
+            title="Enviar currículo"></button>
+    </div>
+
+{% endblock content %}
+
+{% block modal %}
+    {% include "partials/modal.html" %}
+{% endblock modal %}
+
+{% block scripts %}
+    <script src="/scripts/trabalhe-conosco.js"></script>
+{% endblock scripts %}

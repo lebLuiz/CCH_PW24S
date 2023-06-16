@@ -1,0 +1,60 @@
+.cards {
+    width: 100%;
+    height: 100%;
+    padding: 1rem 0;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(28%, 1fr));
+}
+
+.cards .card {
+    position: relative;
+    width: 100%;
+    min-width: 290px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2rem;
+    border-radius: 1rem;
+    gap: 0.5rem;
+    background-color: var(--neutral-10);
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+.cards .card:hover {
+    transform: scale(1.015);
+    background-color: var(--neutral-0);
+}
+
+.cards .card .wrapper-img {
+    width: 100%;
+    max-width: 200px;
+}
+.cards .card .wrapper-img img {
+    width: 100%;
+}
+
+.cards .card .oferta {
+	position: absolute;
+	top: 0;
+	padding: 0.8rem;
+	border-radius: 0 0 0.5rem 0.5rem;
+	background: var(--primary-neutral-80-opacity);
+	color: var(--neutral-0);
+	font-weight: bold;
+    backdrop-filter: blur(1px);
+        -webkit-backdrop-filter: blur(1px);
+}
+.cards .card .nome {
+    text-align: center;
+}
+.cards .card .preco {
+    color: var(--primary);
+    font-weight: bold;
+}
+.cards .card .resumo {
+    color: var(--neutral-50);
+    text-align: left;
+}

@@ -1,0 +1,10 @@
+@keyframes blink {
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
+}
+
+@keyframes move {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(100px); }
+    100% { transform: translateX(0); }
+}

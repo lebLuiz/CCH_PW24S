@@ -1,0 +1,58 @@
+{
+    "vagas": [
+        {
+            "cargo": "Desenvolvedor Full Stack",
+            "localizacao": "São Paulo, SP",
+            "salario": "R$ 8.000 - R$ 10.000",
+            "descricao": "Estamos procurando um desenvolvedor Full Stack para se juntar à nossa equipe. Você será responsável por desenvolver e manter aplicativos web e móveis, trabalhando em todas as fases do ciclo de vida do desenvolvimento de software.",
+            "requisitos": [
+                "Experiência com desenvolvimento web usando HTML, CSS e JavaScript",
+                "Conhecimento em frameworks de desenvolvimento web, como React ou Angular",
+                "Experiência com desenvolvimento de APIs RESTful",
+                "Conhecimento de bancos de dados relacionais, como MySQL ou PostgreSQL",
+                "Habilidades de resolução de problemas e colaboração em equipe"
+            ]
+        },
+        {
+            "cargo": "Analista de Marketing Digital",
+            "localizacao": "Rio de Janeiro, RJ",
+            "salario": "R$ 5.000 - R$ 7.000",
+            "descricao": "Estamos buscando um analista de marketing digital para implementar estratégias de marketing on-line, acompanhar e analisar métricas de desempenho e gerenciar campanhas de publicidade digital.",
+            "requisitos": [
+                "Experiência comprovada em marketing digital",
+                "Conhecimento em ferramentas de análise de marketing, como Google Analytics",
+                "Familiaridade com SEO, SEM e estratégias de marketing em redes sociais",
+                "Capacidade de realizar análises de dados e interpretar resultados",
+                "Excelentes habilidades de comunicação verbal e escrita"
+            ]
+        },
+        {
+            "cargo": "Engenheiro de Software",
+            "localizacao": "Belo Horizonte, MG",
+            "salario": "R$ 7.000 - R$ 9.000",
+            "descricao": "Estamos à procura de um engenheiro de software altamente motivado e experiente para participar do desenvolvimento e da manutenção de nossos sistemas de software. Você será responsável por projetar, desenvolver, testar e implantar software de alta qualidade.",
+            "requisitos": [
+                "Experiência com desenvolvimento de software em linguagens como Java, C++ ou Python",
+                "Conhecimento em práticas de desenvolvimento ágil, como Scrum ou Kanban",
+                "Familiaridade com bancos de dados SQL e NoSQL",
+                "Capacidade de escrever código limpo e de fácil manutenção",
+                "Habilidades de resolução de problemas e pensamento crítico"
+            ]
+        },
+        {
+            "cargo": "Analista de Mesa de Som",
+            "localizacao": "Dois Vizinhos, PR",
+            "salario": "R$ 4.000 - R$ 6.000",
+            "descricao": "Estamos buscando um Analista de Mesa de Som altamente qualificado para se juntar à nossa equipe de produção. O candidato ideal será responsável por configurar e operar mesas de som em eventos ao vivo, mixar e equalizar o áudio, monitorar e solucionar problemas técnicos durante as apresentações.",
+            "requisitos": [
+                "Experiência comprovada como Analista de Mesa de Som em eventos ao vivo",
+                "Conhecimento profundo de mesas de som digitais e analógicas",
+                "Capacidade de mixar e equalizar áudio para garantir qualidade sonora",
+                "Habilidades técnicas para solucionar problemas em tempo real",
+                "Conhecimento de equipamentos de áudio e microfones",
+                "Excelente ouvido para detalhes e habilidades de audição crítica"
+            ]
+        }
+    ]
+}
+  

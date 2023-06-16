@@ -1,0 +1,20 @@
+{
+  "name": "pw24s_acch_luizbarbosa",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Projeto ACCH da matéria de Programação Web 1 de Luiz Eduardo Barbosa",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Luiz Eduardo Barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
