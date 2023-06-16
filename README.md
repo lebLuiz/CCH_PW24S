@@ -10,7 +10,7 @@ Algumas imagens de como é o as páginas
 
 ![Screen Shot 2023-06-15 at 22 26 04](https://github.com/lebLuiz/CCH_PW24S/assets/49081359/1a9abafd-6af9-4152-b375-824db73a480e)
 
-![Screen Shot 2023-06-15 at 22 28 43](https://github.com/lebLuiz/CCH_PW24S/assets/49081359/c953fb85-ee84-4c63-bf28-7cb661d40855)
+![image](https://github.com/lebLuiz/CCH_PW24S/assets/49081359/e2c275f2-6f8c-4c7a-af89-6038bc2aebf7)
 
 ![Screen Shot 2023-06-15 at 22 25 45](https://github.com/lebLuiz/CCH_PW24S/assets/49081359/2709de74-3c26-4426-a1ae-432d8d8f8a52)
 
